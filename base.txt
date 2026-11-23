@@ -1,1 +1,5 @@
+ HEAD
 linea modificada por rama1
+
+linea modificada por rama2
+rama2
